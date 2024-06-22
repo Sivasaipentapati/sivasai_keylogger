@@ -1,0 +1,1 @@
+Key.shift_r"'"Key.backspace"'"'a'"'""'"'s'"'""'"'w'"'"'r'Key.backspace"'"'r'"'"Key.shift_r','<97><96><97>Key.shift_r'.''<'Key.shift_r<105><104>Key.shift_r'.''k''a''l'Key.backspaceKey.backspaceKey.backspace"'"'k''a''l''i'"'"
